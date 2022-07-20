@@ -1,2 +1,2 @@
 # stepfunction_terraform
-try build stepfunction using terraform
+try manage a stepfunction using terraform
